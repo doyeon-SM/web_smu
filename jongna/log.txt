@@ -3271,3 +3271,6 @@ Time:	2024-05-27 13:19:08	SessionID:	ipi34kbu00tliunklbf991ufuh	Message:	접속�
 Time:	2024-05-27 13:19:11	SessionID:	ipi34kbu00tliunklbf991ufuh	Message:	S_000004가게상세페이지 출력	URI:	/jongna/storeInfoSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000004
 Time:	2024-05-27 13:19:11	SessionID:	ipi34kbu00tliunklbf991ufuh	Message:	찜하기 팝업 출력	URI:	/jongna/storeJjimSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000004
 Time:	2024-05-27 13:19:13	SessionID:	ipi34kbu00tliunklbf991ufuh	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000004
+Time:	2024-05-27 13:42:10	SessionID:	upgcoaf4ae8fh9bmub44l0iknb	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/storeList.php?category=%EC%96%91%EC%8B%9D
+Time:	2024-05-27 13:42:11	SessionID:	upgcoaf4ae8fh9bmub44l0iknb	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/index.php?id=&store_number=
+Time:	2024-05-27 13:42:34	SessionID:	upgcoaf4ae8fh9bmub44l0iknb	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/jongna_login_page.php
