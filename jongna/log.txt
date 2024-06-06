@@ -3274,3 +3274,309 @@ Time:	2024-05-27 13:19:13	SessionID:	ipi34kbu00tliunklbf991ufuh	Message:	접속�
 Time:	2024-05-27 13:42:10	SessionID:	upgcoaf4ae8fh9bmub44l0iknb	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/storeList.php?category=%EC%96%91%EC%8B%9D
 Time:	2024-05-27 13:42:11	SessionID:	upgcoaf4ae8fh9bmub44l0iknb	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/index.php?id=&store_number=
 Time:	2024-05-27 13:42:34	SessionID:	upgcoaf4ae8fh9bmub44l0iknb	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/jongna_login_page.php
+Time:	2024-05-27 13:43:42	SessionID:	upgcoaf4ae8fh9bmub44l0iknb	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/jongna_login_page.php
+Time:	2024-05-27 13:43:44	SessionID:	upgcoaf4ae8fh9bmub44l0iknb	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/index.php
+Time:	2024-05-27 13:43:47	SessionID:	upgcoaf4ae8fh9bmub44l0iknb	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/index.php?id=&store_number=
+Time:	2024-05-27 13:44:01	SessionID:	upgcoaf4ae8fh9bmub44l0iknb	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/jongna_login_page.php
+Time:	2024-05-27 13:44:06	SessionID:	upgcoaf4ae8fh9bmub44l0iknb	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/jongna_login_page.php
+Time:	2024-05-27 13:44:07	SessionID:	upgcoaf4ae8fh9bmub44l0iknb	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/index.php
+Time:	2024-05-27 13:44:11	SessionID:	upgcoaf4ae8fh9bmub44l0iknb	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/index.php
+Time:	2024-05-27 13:44:12	SessionID:	upgcoaf4ae8fh9bmub44l0iknb	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	
+Time:	2024-05-27 13:44:14	SessionID:	upgcoaf4ae8fh9bmub44l0iknb	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/jongna_login_page.php
+Time:	2024-05-27 13:44:20	SessionID:	upgcoaf4ae8fh9bmub44l0iknb	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/jongna_login_page.php
+Time:	2024-05-27 13:44:24	SessionID:	upgcoaf4ae8fh9bmub44l0iknb	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/jongna_login_page.php
+Time:	2024-05-27 13:44:32	SessionID:	upgcoaf4ae8fh9bmub44l0iknb	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	
+Time:	2024-05-27 13:44:38	SessionID:	upgcoaf4ae8fh9bmub44l0iknb	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/jongna_login_page.php
+Time:	2024-05-27 13:44:49	SessionID:	upgcoaf4ae8fh9bmub44l0iknb	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/jongna_login_page.php
+Time:	2024-05-27 13:45:30	SessionID:	upgcoaf4ae8fh9bmub44l0iknb	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/jongna_register_page.php
+Time:	2024-05-27 13:45:50	SessionID:	upgcoaf4ae8fh9bmub44l0iknb	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/jongna_register_page.php
+Time:	2024-05-27 13:46:25	SessionID:	upgcoaf4ae8fh9bmub44l0iknb	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/jongna_login_page.php
+Time:	2024-05-27 13:46:28	SessionID:	upgcoaf4ae8fh9bmub44l0iknb	Message:	리뷰작성페이지 출력	URI:	/jongna/reviewSQL.php	Previous:	http://18.188.92.242/jongna/mypage.php?id=&store_number=
+Time:	2024-05-27 13:46:37	SessionID:	upgcoaf4ae8fh9bmub44l0iknb	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/mypage.php?id=&store_number=
+Time:	2024-05-27 13:46:38	SessionID:	upgcoaf4ae8fh9bmub44l0iknb	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/index.php?id=&store_number=
+Time:	2024-05-27 13:46:43	SessionID:	upgcoaf4ae8fh9bmub44l0iknb	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/jongna_login_page.php
+Time:	2024-05-27 13:46:53	SessionID:	upgcoaf4ae8fh9bmub44l0iknb	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/jongna_login_page.php
+Time:	2024-05-27 13:47:01	SessionID:	upgcoaf4ae8fh9bmub44l0iknb	Message:	S_000006가게상세페이지 출력	URI:	/jongna/storeInfoSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000006
+Time:	2024-05-27 13:47:01	SessionID:	upgcoaf4ae8fh9bmub44l0iknb	Message:	찜하기 팝업 출력	URI:	/jongna/storeJjimSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000006
+Time:	2024-05-27 13:47:04	SessionID:	upgcoaf4ae8fh9bmub44l0iknb	Message:	S_000006리뷰작성페이지 출력	URI:	/jongna/reviewSQL.php	Previous:	http://18.188.92.242/jongna/review_page.php?id=&store_number=S_000006
+Time:	2024-05-27 13:47:14	SessionID:	upgcoaf4ae8fh9bmub44l0iknb	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/review_page.php?id=&store_number=S_000006
+Time:	2024-05-27 13:47:18	SessionID:	upgcoaf4ae8fh9bmub44l0iknb	Message:	S_000006가게상세페이지 출력	URI:	/jongna/storeInfoSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000006
+Time:	2024-05-27 13:47:18	SessionID:	upgcoaf4ae8fh9bmub44l0iknb	Message:	찜하기 팝업 출력	URI:	/jongna/storeJjimSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000006
+Time:	2024-05-27 13:58:18	SessionID:	opg1jc29jacpogbk4umglmv0uf	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	
+Time:	2024-05-27 14:14:25	SessionID:	ipi34kbu00tliunklbf991ufuh	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/storeList.php?category=%EC%A4%91%EC%8B%9D
+Time:	2024-05-28 03:00:18	SessionID:	s60ficbaendo2i7fg9ffpfd15f	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	
+Time:	2024-05-28 03:00:23	SessionID:	s60ficbaendo2i7fg9ffpfd15f	Message:	S_000004가게상세페이지 출력	URI:	/jongna/storeInfoSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000004
+Time:	2024-05-28 03:00:23	SessionID:	s60ficbaendo2i7fg9ffpfd15f	Message:	찜하기 팝업 출력	URI:	/jongna/storeJjimSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000004
+Time:	2024-05-28 03:38:29	SessionID:	pbtfuctnauv0sgdlfdg2lo7o46	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	
+Time:	2024-05-28 03:38:44	SessionID:	pbtfuctnauv0sgdlfdg2lo7o46	Message:	S_000008가게상세페이지 출력	URI:	/jongna/storeInfoSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000008
+Time:	2024-05-28 03:38:44	SessionID:	pbtfuctnauv0sgdlfdg2lo7o46	Message:	찜하기 팝업 출력	URI:	/jongna/storeJjimSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000008
+Time:	2024-05-28 03:38:54	SessionID:	pbtfuctnauv0sgdlfdg2lo7o46	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000008
+Time:	2024-05-28 03:39:04	SessionID:	pbtfuctnauv0sgdlfdg2lo7o46	Message:	S_000011가게상세페이지 출력	URI:	/jongna/storeInfoSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000011
+Time:	2024-05-28 03:39:04	SessionID:	pbtfuctnauv0sgdlfdg2lo7o46	Message:	찜하기 팝업 출력	URI:	/jongna/storeJjimSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000011
+Time:	2024-05-28 03:39:07	SessionID:	pbtfuctnauv0sgdlfdg2lo7o46	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000011
+Time:	2024-05-28 03:39:24	SessionID:	pbtfuctnauv0sgdlfdg2lo7o46	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/jongna_register_page.php
+Time:	2024-05-28 03:39:31	SessionID:	pbtfuctnauv0sgdlfdg2lo7o46	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/jongna_login_page.php
+Time:	2024-05-28 03:39:37	SessionID:	pbtfuctnauv0sgdlfdg2lo7o46	Message:	리뷰작성페이지 출력	URI:	/jongna/reviewSQL.php	Previous:	http://18.188.92.242/jongna/mypage.php?id=&store_number=
+Time:	2024-05-28 03:39:41	SessionID:	pbtfuctnauv0sgdlfdg2lo7o46	Message:	S_000001가게상세페이지 출력	URI:	/jongna/storeInfoSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000001
+Time:	2024-05-28 03:39:41	SessionID:	pbtfuctnauv0sgdlfdg2lo7o46	Message:	찜하기 팝업 출력	URI:	/jongna/storeJjimSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000001
+Time:	2024-05-28 03:39:57	SessionID:	pbtfuctnauv0sgdlfdg2lo7o46	Message:	S_000001리뷰작성페이지 출력	URI:	/jongna/reviewSQL.php	Previous:	http://18.188.92.242/jongna/review_page.php?id=&store_number=S_000001
+Time:	2024-05-28 03:39:58	SessionID:	pbtfuctnauv0sgdlfdg2lo7o46	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/review_page.php?id=&store_number=S_000001
+Time:	2024-05-28 03:41:20	SessionID:	djfef27up5c58ct47g7tbedke2	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	
+Time:	2024-05-28 03:41:23	SessionID:	djfef27up5c58ct47g7tbedke2	Message:	S_000024가게상세페이지 출력	URI:	/jongna/storeInfoSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000024
+Time:	2024-05-28 03:41:23	SessionID:	djfef27up5c58ct47g7tbedke2	Message:	찜하기 팝업 출력	URI:	/jongna/storeJjimSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000024
+Time:	2024-05-28 03:41:35	SessionID:	djfef27up5c58ct47g7tbedke2	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/jongna_register_page.php
+Time:	2024-05-28 03:41:38	SessionID:	djfef27up5c58ct47g7tbedke2	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/jongna_register_page.php
+Time:	2024-05-28 03:45:39	SessionID:	djfef27up5c58ct47g7tbedke2	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/jongna_register_page.php
+Time:	2024-05-28 03:45:55	SessionID:	6f0vdn2p6q1r5j4s5t4q0qtt2l	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	
+Time:	2024-05-28 03:46:04	SessionID:	djfef27up5c58ct47g7tbedke2	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/jongna_register_page.php
+Time:	2024-05-28 03:49:22	SessionID:	26jquitgqjgbcj038jv1vnre2i	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	
+Time:	2024-05-28 03:49:38	SessionID:	eehlbdh6kq767932bm013insc3	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	
+Time:	2024-05-28 03:49:40	SessionID:	eehlbdh6kq767932bm013insc3	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/index.php?id=&store_number=
+Time:	2024-05-28 03:51:05	SessionID:	oqrs1t30ghm9ulho5p9dvgactd	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	
+Time:	2024-05-28 03:51:38	SessionID:	id2t1vilt6g99givhh2ahmi2hr	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	
+Time:	2024-05-28 03:52:38	SessionID:	h4h0edut78v9dvnsahaoc7k1dl	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	
+Time:	2024-05-28 03:53:00	SessionID:	nct2br8tbh3net0qrra8atdeku	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	
+Time:	2024-05-28 03:53:17	SessionID:	nct2br8tbh3net0qrra8atdeku	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	
+Time:	2024-05-28 03:53:18	SessionID:	nct2br8tbh3net0qrra8atdeku	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/index.php?id=&store_number=
+Time:	2024-05-28 04:06:37	SessionID:	nct2br8tbh3net0qrra8atdeku	Message:	S_000003가게상세페이지 출력	URI:	/jongna/storeInfoSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000003
+Time:	2024-05-28 04:06:37	SessionID:	nct2br8tbh3net0qrra8atdeku	Message:	찜하기 팝업 출력	URI:	/jongna/storeJjimSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000003
+Time:	2024-05-28 04:06:46	SessionID:	eehlbdh6kq767932bm013insc3	Message:	S_000036가게상세페이지 출력	URI:	/jongna/storeInfoSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000036
+Time:	2024-05-28 04:06:47	SessionID:	eehlbdh6kq767932bm013insc3	Message:	찜하기 팝업 출력	URI:	/jongna/storeJjimSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000036
+Time:	2024-05-28 04:06:47	SessionID:	oqrs1t30ghm9ulho5p9dvgactd	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/storeList.php?category=%EC%A4%91%EC%8B%9D
+Time:	2024-05-28 04:06:49	SessionID:	nct2br8tbh3net0qrra8atdeku	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/jongna_login_page.php
+Time:	2024-05-28 04:06:53	SessionID:	oqrs1t30ghm9ulho5p9dvgactd	Message:	S_000001가게상세페이지 출력	URI:	/jongna/storeInfoSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000001
+Time:	2024-05-28 04:06:53	SessionID:	oqrs1t30ghm9ulho5p9dvgactd	Message:	찜하기 팝업 출력	URI:	/jongna/storeJjimSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000001
+Time:	2024-05-28 04:07:12	SessionID:	oqrs1t30ghm9ulho5p9dvgactd	Message:	S_000027가게상세페이지 출력	URI:	/jongna/storeInfoSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000027
+Time:	2024-05-28 04:07:12	SessionID:	oqrs1t30ghm9ulho5p9dvgactd	Message:	찜하기 팝업 출력	URI:	/jongna/storeJjimSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000027
+Time:	2024-05-28 04:07:20	SessionID:	eehlbdh6kq767932bm013insc3	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000036
+Time:	2024-05-28 04:07:40	SessionID:	nct2br8tbh3net0qrra8atdeku	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/jongna_login_page.php
+Time:	2024-05-28 04:07:47	SessionID:	nct2br8tbh3net0qrra8atdeku	Message:	리뷰작성페이지 출력	URI:	/jongna/reviewSQL.php	Previous:	http://18.188.92.242/jongna/mypage.php?id=&store_number=
+Time:	2024-05-28 04:08:22	SessionID:	eehlbdh6kq767932bm013insc3	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/jongna_login_page.php
+Time:	2024-05-28 04:08:27	SessionID:	eehlbdh6kq767932bm013insc3	Message:	리뷰작성페이지 출력	URI:	/jongna/reviewSQL.php	Previous:	http://18.188.92.242/jongna/mypage.php?id=&store_number=
+Time:	2024-05-28 04:08:27	SessionID:	oqrs1t30ghm9ulho5p9dvgactd	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/jongna_login_page.php
+Time:	2024-05-28 04:08:35	SessionID:	eehlbdh6kq767932bm013insc3	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/mypage.php?id=&store_number=
+Time:	2024-05-28 04:08:54	SessionID:	nct2br8tbh3net0qrra8atdeku	Message:	S_000029가게상세페이지 출력	URI:	/jongna/storeInfoSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000029
+Time:	2024-05-28 04:08:55	SessionID:	nct2br8tbh3net0qrra8atdeku	Message:	찜하기 팝업 출력	URI:	/jongna/storeJjimSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000029
+Time:	2024-05-28 04:09:01	SessionID:	nct2br8tbh3net0qrra8atdeku	Message:	S_000042가게상세페이지 출력	URI:	/jongna/storeInfoSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000042
+Time:	2024-05-28 04:09:01	SessionID:	nct2br8tbh3net0qrra8atdeku	Message:	찜하기 팝업 출력	URI:	/jongna/storeJjimSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000042
+Time:	2024-05-28 04:09:08	SessionID:	oqrs1t30ghm9ulho5p9dvgactd	Message:	S_000008가게상세페이지 출력	URI:	/jongna/storeInfoSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000008
+Time:	2024-05-28 04:09:09	SessionID:	oqrs1t30ghm9ulho5p9dvgactd	Message:	찜하기 팝업 출력	URI:	/jongna/storeJjimSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000008
+Time:	2024-05-28 04:09:14	SessionID:	oqrs1t30ghm9ulho5p9dvgactd	Message:	S_000008리뷰작성페이지 출력	URI:	/jongna/reviewSQL.php	Previous:	http://18.188.92.242/jongna/review_page.php?id=&store_number=S_000008
+Time:	2024-05-28 04:09:17	SessionID:	nct2br8tbh3net0qrra8atdeku	Message:	S_000042리뷰작성페이지 출력	URI:	/jongna/reviewSQL.php	Previous:	http://18.188.92.242/jongna/review_page.php?id=&store_number=S_000042
+Time:	2024-05-28 04:09:36	SessionID:	nct2br8tbh3net0qrra8atdeku	Message:	S_000042가게상세페이지 출력	URI:	/jongna/storeInfoSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000042
+Time:	2024-05-28 04:09:36	SessionID:	nct2br8tbh3net0qrra8atdeku	Message:	찜하기 팝업 출력	URI:	/jongna/storeJjimSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000042
+Time:	2024-05-28 04:09:48	SessionID:	nct2br8tbh3net0qrra8atdeku	Message:	S_000042리뷰작성페이지 출력	URI:	/jongna/reviewSQL.php	Previous:	http://18.188.92.242/jongna/review_page.php?id=&store_number=S_000042
+Time:	2024-05-28 04:09:51	SessionID:	oqrs1t30ghm9ulho5p9dvgactd	Message:	S_000008가게상세페이지 출력	URI:	/jongna/storeInfoSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000008
+Time:	2024-05-28 04:09:51	SessionID:	oqrs1t30ghm9ulho5p9dvgactd	Message:	찜하기 팝업 출력	URI:	/jongna/storeJjimSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000008
+Time:	2024-05-28 04:09:52	SessionID:	nct2br8tbh3net0qrra8atdeku	Message:	S_000042가게상세페이지 출력	URI:	/jongna/storeInfoSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000042
+Time:	2024-05-28 04:09:52	SessionID:	nct2br8tbh3net0qrra8atdeku	Message:	찜하기 팝업 출력	URI:	/jongna/storeJjimSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000042
+Time:	2024-05-28 04:10:18	SessionID:	nct2br8tbh3net0qrra8atdeku	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000042
+Time:	2024-05-28 04:10:31	SessionID:	eehlbdh6kq767932bm013insc3	Message:	S_000048가게상세페이지 출력	URI:	/jongna/storeInfoSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000048
+Time:	2024-05-28 04:10:31	SessionID:	eehlbdh6kq767932bm013insc3	Message:	찜하기 팝업 출력	URI:	/jongna/storeJjimSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000048
+Time:	2024-05-28 04:10:35	SessionID:	eehlbdh6kq767932bm013insc3	Message:	S_000048리뷰작성페이지 출력	URI:	/jongna/reviewSQL.php	Previous:	http://18.188.92.242/jongna/review_page.php?id=&store_number=S_000048
+Time:	2024-05-28 04:11:00	SessionID:	oqrs1t30ghm9ulho5p9dvgactd	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000008
+Time:	2024-05-28 04:11:02	SessionID:	oqrs1t30ghm9ulho5p9dvgactd	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/index.php
+Time:	2024-05-28 04:11:04	SessionID:	eehlbdh6kq767932bm013insc3	Message:	S_000001가게상세페이지 출력	URI:	/jongna/storeInfoSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000001
+Time:	2024-05-28 04:11:04	SessionID:	eehlbdh6kq767932bm013insc3	Message:	찜하기 팝업 출력	URI:	/jongna/storeJjimSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000001
+Time:	2024-05-28 04:11:12	SessionID:	eehlbdh6kq767932bm013insc3	Message:	S_000001가게상세페이지 출력	URI:	/jongna/storeInfoSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000001
+Time:	2024-05-28 04:11:12	SessionID:	eehlbdh6kq767932bm013insc3	Message:	찜하기 팝업 출력	URI:	/jongna/storeJjimSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000001
+Time:	2024-05-28 04:11:21	SessionID:	eehlbdh6kq767932bm013insc3	Message:	S_000048가게상세페이지 출력	URI:	/jongna/storeInfoSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000048
+Time:	2024-05-28 04:11:21	SessionID:	eehlbdh6kq767932bm013insc3	Message:	찜하기 팝업 출력	URI:	/jongna/storeJjimSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000048
+Time:	2024-05-28 04:11:26	SessionID:	eehlbdh6kq767932bm013insc3	Message:	S_000048리뷰작성페이지 출력	URI:	/jongna/reviewSQL.php	Previous:	http://18.188.92.242/jongna/review_page.php?id=&store_number=S_000048
+Time:	2024-05-28 04:11:31	SessionID:	nct2br8tbh3net0qrra8atdeku	Message:	S_000041가게상세페이지 출력	URI:	/jongna/storeInfoSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000041
+Time:	2024-05-28 04:11:31	SessionID:	nct2br8tbh3net0qrra8atdeku	Message:	찜하기 팝업 출력	URI:	/jongna/storeJjimSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000041
+Time:	2024-05-28 04:11:31	SessionID:	oqrs1t30ghm9ulho5p9dvgactd	Message:	S_000027가게상세페이지 출력	URI:	/jongna/storeInfoSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000027
+Time:	2024-05-28 04:11:31	SessionID:	oqrs1t30ghm9ulho5p9dvgactd	Message:	찜하기 팝업 출력	URI:	/jongna/storeJjimSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000027
+Time:	2024-05-28 04:11:38	SessionID:	eehlbdh6kq767932bm013insc3	Message:	S_000048가게상세페이지 출력	URI:	/jongna/storeInfoSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000048
+Time:	2024-05-28 04:11:38	SessionID:	eehlbdh6kq767932bm013insc3	Message:	찜하기 팝업 출력	URI:	/jongna/storeJjimSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000048
+Time:	2024-05-28 04:12:19	SessionID:	oqrs1t30ghm9ulho5p9dvgactd	Message:	S_000037가게상세페이지 출력	URI:	/jongna/storeInfoSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000037
+Time:	2024-05-28 04:12:20	SessionID:	oqrs1t30ghm9ulho5p9dvgactd	Message:	찜하기 팝업 출력	URI:	/jongna/storeJjimSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000037
+Time:	2024-05-28 04:12:22	SessionID:	eehlbdh6kq767932bm013insc3	Message:	S_000041가게상세페이지 출력	URI:	/jongna/storeInfoSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000041
+Time:	2024-05-28 04:12:22	SessionID:	eehlbdh6kq767932bm013insc3	Message:	찜하기 팝업 출력	URI:	/jongna/storeJjimSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000041
+Time:	2024-05-28 04:13:43	SessionID:	oqrs1t30ghm9ulho5p9dvgactd	Message:	S_000013가게상세페이지 출력	URI:	/jongna/storeInfoSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000013
+Time:	2024-05-28 04:13:43	SessionID:	oqrs1t30ghm9ulho5p9dvgactd	Message:	찜하기 팝업 출력	URI:	/jongna/storeJjimSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000013
+Time:	2024-05-28 04:13:46	SessionID:	id2t1vilt6g99givhh2ahmi2hr	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	
+Time:	2024-05-28 04:14:06	SessionID:	nct2br8tbh3net0qrra8atdeku	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000041
+Time:	2024-05-28 04:14:23	SessionID:	h4h0edut78v9dvnsahaoc7k1dl	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	
+Time:	2024-05-28 04:14:26	SessionID:	id2t1vilt6g99givhh2ahmi2hr	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/jongna_login_page.php
+Time:	2024-05-28 04:14:31	SessionID:	id2t1vilt6g99givhh2ahmi2hr	Message:	리뷰작성페이지 출력	URI:	/jongna/reviewSQL.php	Previous:	http://18.188.92.242/jongna/mypage.php?id=&store_number=
+Time:	2024-05-28 04:14:38	SessionID:	id2t1vilt6g99givhh2ahmi2hr	Message:	S_000004가게상세페이지 출력	URI:	/jongna/storeInfoSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000004
+Time:	2024-05-28 04:14:38	SessionID:	id2t1vilt6g99givhh2ahmi2hr	Message:	찜하기 팝업 출력	URI:	/jongna/storeJjimSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000004
+Time:	2024-05-28 04:14:46	SessionID:	oqrs1t30ghm9ulho5p9dvgactd	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000013
+Time:	2024-05-28 04:14:51	SessionID:	id2t1vilt6g99givhh2ahmi2hr	Message:	S_000004리뷰작성페이지 출력	URI:	/jongna/reviewSQL.php	Previous:	http://18.188.92.242/jongna/review_page.php?id=&store_number=S_000004
+Time:	2024-05-28 04:14:54	SessionID:	h4h0edut78v9dvnsahaoc7k1dl	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/jongna_login_page.php
+Time:	2024-05-28 04:14:55	SessionID:	oqrs1t30ghm9ulho5p9dvgactd	Message:	S_000001가게상세페이지 출력	URI:	/jongna/storeInfoSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000001
+Time:	2024-05-28 04:14:55	SessionID:	oqrs1t30ghm9ulho5p9dvgactd	Message:	찜하기 팝업 출력	URI:	/jongna/storeJjimSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000001
+Time:	2024-05-28 04:14:57	SessionID:	h4h0edut78v9dvnsahaoc7k1dl	Message:	리뷰작성페이지 출력	URI:	/jongna/reviewSQL.php	Previous:	http://18.188.92.242/jongna/mypage.php?id=&store_number=
+Time:	2024-05-28 04:15:02	SessionID:	oqrs1t30ghm9ulho5p9dvgactd	Message:	S_000002가게상세페이지 출력	URI:	/jongna/storeInfoSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000002
+Time:	2024-05-28 04:15:03	SessionID:	oqrs1t30ghm9ulho5p9dvgactd	Message:	찜하기 팝업 출력	URI:	/jongna/storeJjimSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000002
+Time:	2024-05-28 04:15:07	SessionID:	h4h0edut78v9dvnsahaoc7k1dl	Message:	리뷰작성페이지 출력	URI:	/jongna/reviewSQL.php	Previous:	http://18.188.92.242/jongna/mypageModify_name.php
+Time:	2024-05-28 04:15:08	SessionID:	oqrs1t30ghm9ulho5p9dvgactd	Message:	S_000007가게상세페이지 출력	URI:	/jongna/storeInfoSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000007
+Time:	2024-05-28 04:15:09	SessionID:	oqrs1t30ghm9ulho5p9dvgactd	Message:	찜하기 팝업 출력	URI:	/jongna/storeJjimSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000007
+Time:	2024-05-28 04:15:09	SessionID:	id2t1vilt6g99givhh2ahmi2hr	Message:	S_000004가게상세페이지 출력	URI:	/jongna/storeInfoSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000004
+Time:	2024-05-28 04:15:09	SessionID:	id2t1vilt6g99givhh2ahmi2hr	Message:	찜하기 팝업 출력	URI:	/jongna/storeJjimSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000004
+Time:	2024-05-28 04:15:10	SessionID:	h4h0edut78v9dvnsahaoc7k1dl	Message:	리뷰작성페이지 출력	URI:	/jongna/reviewSQL.php	Previous:	http://18.188.92.242/jongna/mypage.php
+Time:	2024-05-28 04:15:11	SessionID:	oqrs1t30ghm9ulho5p9dvgactd	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000007
+Time:	2024-05-28 04:15:14	SessionID:	h4h0edut78v9dvnsahaoc7k1dl	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/mypage.php
+Time:	2024-05-28 04:15:26	SessionID:	h4h0edut78v9dvnsahaoc7k1dl	Message:	S_000007가게상세페이지 출력	URI:	/jongna/storeInfoSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000007
+Time:	2024-05-28 04:15:26	SessionID:	h4h0edut78v9dvnsahaoc7k1dl	Message:	찜하기 팝업 출력	URI:	/jongna/storeJjimSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000007
+Time:	2024-05-28 04:15:30	SessionID:	h4h0edut78v9dvnsahaoc7k1dl	Message:	S_000007리뷰작성페이지 출력	URI:	/jongna/reviewSQL.php	Previous:	http://18.188.92.242/jongna/review_page.php?id=&store_number=S_000007
+Time:	2024-05-28 04:15:32	SessionID:	id2t1vilt6g99givhh2ahmi2hr	Message:	S_000004가게상세페이지 출력	URI:	/jongna/storeInfoSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000004
+Time:	2024-05-28 04:15:32	SessionID:	id2t1vilt6g99givhh2ahmi2hr	Message:	찜하기 팝업 출력	URI:	/jongna/storeJjimSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000004
+Time:	2024-05-28 04:15:45	SessionID:	h4h0edut78v9dvnsahaoc7k1dl	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/review_page.php?id=&store_number=S_000007
+Time:	2024-05-28 04:15:48	SessionID:	h4h0edut78v9dvnsahaoc7k1dl	Message:	S_000007가게상세페이지 출력	URI:	/jongna/storeInfoSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000007
+Time:	2024-05-28 04:15:48	SessionID:	h4h0edut78v9dvnsahaoc7k1dl	Message:	찜하기 팝업 출력	URI:	/jongna/storeJjimSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000007
+Time:	2024-05-28 04:15:54	SessionID:	id2t1vilt6g99givhh2ahmi2hr	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/storeList.php?category=%EA%B2%80%EC%83%89
+Time:	2024-05-28 04:15:56	SessionID:	id2t1vilt6g99givhh2ahmi2hr	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/index.php?id=&store_number=
+Time:	2024-05-28 04:16:10	SessionID:	id2t1vilt6g99givhh2ahmi2hr	Message:	S_000037가게상세페이지 출력	URI:	/jongna/storeInfoSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000037
+Time:	2024-05-28 04:16:11	SessionID:	id2t1vilt6g99givhh2ahmi2hr	Message:	찜하기 팝업 출력	URI:	/jongna/storeJjimSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000037
+Time:	2024-05-28 04:16:27	SessionID:	h4h0edut78v9dvnsahaoc7k1dl	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000007
+Time:	2024-05-28 04:18:26	SessionID:	id2t1vilt6g99givhh2ahmi2hr	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/jongna_login_page.php
+Time:	2024-05-28 04:18:28	SessionID:	id2t1vilt6g99givhh2ahmi2hr	Message:	리뷰작성페이지 출력	URI:	/jongna/reviewSQL.php	Previous:	http://18.188.92.242/jongna/mypage.php?id=&store_number=
+Time:	2024-05-28 04:18:36	SessionID:	id2t1vilt6g99givhh2ahmi2hr	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/mypage.php?id=&store_number=
+Time:	2024-05-28 04:18:45	SessionID:	h4h0edut78v9dvnsahaoc7k1dl	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/jongna_login_page.php
+Time:	2024-05-28 04:18:57	SessionID:	id2t1vilt6g99givhh2ahmi2hr	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/mypage.php?id=&store_number=
+Time:	2024-05-28 04:19:23	SessionID:	h4h0edut78v9dvnsahaoc7k1dl	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/storeList.php?category=%EA%B2%80%EC%83%89
+Time:	2024-05-28 04:19:44	SessionID:	h4h0edut78v9dvnsahaoc7k1dl	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/storeList.php?category=%ED%95%9C%EC%8B%9D
+Time:	2024-05-28 04:19:45	SessionID:	id2t1vilt6g99givhh2ahmi2hr	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/jongna_login_page.php
+Time:	2024-05-28 04:19:46	SessionID:	id2t1vilt6g99givhh2ahmi2hr	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/jongna_login_page.php
+Time:	2024-05-28 04:19:47	SessionID:	h4h0edut78v9dvnsahaoc7k1dl	Message:	S_000037가게상세페이지 출력	URI:	/jongna/storeInfoSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000037
+Time:	2024-05-28 04:19:47	SessionID:	h4h0edut78v9dvnsahaoc7k1dl	Message:	찜하기 팝업 출력	URI:	/jongna/storeJjimSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000037
+Time:	2024-05-28 04:19:47	SessionID:	id2t1vilt6g99givhh2ahmi2hr	Message:	리뷰작성페이지 출력	URI:	/jongna/reviewSQL.php	Previous:	http://18.188.92.242/jongna/mypage.php?id=&store_number=
+Time:	2024-05-28 04:19:49	SessionID:	h4h0edut78v9dvnsahaoc7k1dl	Message:	S_000037리뷰작성페이지 출력	URI:	/jongna/reviewSQL.php	Previous:	http://18.188.92.242/jongna/review_page.php?id=&store_number=S_000037
+Time:	2024-05-28 04:19:55	SessionID:	h4h0edut78v9dvnsahaoc7k1dl	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/review_page.php?id=&store_number=S_000037
+Time:	2024-05-28 04:20:00	SessionID:	h4h0edut78v9dvnsahaoc7k1dl	Message:	S_000037가게상세페이지 출력	URI:	/jongna/storeInfoSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000037
+Time:	2024-05-28 04:20:00	SessionID:	h4h0edut78v9dvnsahaoc7k1dl	Message:	찜하기 팝업 출력	URI:	/jongna/storeJjimSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000037
+Time:	2024-05-28 04:20:02	SessionID:	h4h0edut78v9dvnsahaoc7k1dl	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/review_page.php?id=&store_number=S_000037
+Time:	2024-05-28 04:20:02	SessionID:	h4h0edut78v9dvnsahaoc7k1dl	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/review_page.php?id=&store_number=S_000037
+Time:	2024-05-28 04:20:04	SessionID:	h4h0edut78v9dvnsahaoc7k1dl	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/review_page.php?id=&store_number=S_000037
+Time:	2024-05-28 04:20:06	SessionID:	h4h0edut78v9dvnsahaoc7k1dl	Message:	S_000037가게상세페이지 출력	URI:	/jongna/storeInfoSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000037
+Time:	2024-05-28 04:20:06	SessionID:	h4h0edut78v9dvnsahaoc7k1dl	Message:	찜하기 팝업 출력	URI:	/jongna/storeJjimSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000037
+Time:	2024-05-28 04:20:14	SessionID:	h4h0edut78v9dvnsahaoc7k1dl	Message:	리뷰작성페이지 출력	URI:	/jongna/reviewSQL.php	Previous:	http://18.188.92.242/jongna/mypage.php?id=&store_number=
+Time:	2024-05-28 04:20:20	SessionID:	h4h0edut78v9dvnsahaoc7k1dl	Message:	리뷰작성페이지 출력	URI:	/jongna/reviewSQL.php	Previous:	http://18.188.92.242/jongna/mypage.php
+Time:	2024-05-28 04:20:36	SessionID:	h4h0edut78v9dvnsahaoc7k1dl	Message:	리뷰작성페이지 출력	URI:	/jongna/reviewSQL.php	Previous:	http://18.188.92.242/jongna/mypage.php
+Time:	2024-05-28 04:20:45	SessionID:	h4h0edut78v9dvnsahaoc7k1dl	Message:	S_000003가게상세페이지 출력	URI:	/jongna/storeInfoSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000003
+Time:	2024-05-28 04:20:46	SessionID:	h4h0edut78v9dvnsahaoc7k1dl	Message:	찜하기 팝업 출력	URI:	/jongna/storeJjimSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000003
+Time:	2024-05-28 04:20:47	SessionID:	id2t1vilt6g99givhh2ahmi2hr	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/mypage.php?id=&store_number=
+Time:	2024-05-28 04:20:48	SessionID:	h4h0edut78v9dvnsahaoc7k1dl	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000003
+Time:	2024-05-28 04:20:55	SessionID:	h4h0edut78v9dvnsahaoc7k1dl	Message:	S_000037가게상세페이지 출력	URI:	/jongna/storeInfoSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000037
+Time:	2024-05-28 04:20:55	SessionID:	h4h0edut78v9dvnsahaoc7k1dl	Message:	찜하기 팝업 출력	URI:	/jongna/storeJjimSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000037
+Time:	2024-05-28 04:21:01	SessionID:	h4h0edut78v9dvnsahaoc7k1dl	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000037
+Time:	2024-05-28 04:21:15	SessionID:	h4h0edut78v9dvnsahaoc7k1dl	Message:	S_000037가게상세페이지 출력	URI:	/jongna/storeInfoSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000037
+Time:	2024-05-28 04:21:15	SessionID:	h4h0edut78v9dvnsahaoc7k1dl	Message:	찜하기 팝업 출력	URI:	/jongna/storeJjimSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000037
+Time:	2024-05-28 04:21:18	SessionID:	h4h0edut78v9dvnsahaoc7k1dl	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000037
+Time:	2024-05-28 04:21:39	SessionID:	nct2br8tbh3net0qrra8atdeku	Message:	S_000013가게상세페이지 출력	URI:	/jongna/storeInfoSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000013
+Time:	2024-05-28 04:21:39	SessionID:	nct2br8tbh3net0qrra8atdeku	Message:	찜하기 팝업 출력	URI:	/jongna/storeJjimSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000013
+Time:	2024-05-28 04:21:43	SessionID:	oqrs1t30ghm9ulho5p9dvgactd	Message:	S_000004가게상세페이지 출력	URI:	/jongna/storeInfoSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000004
+Time:	2024-05-28 04:21:43	SessionID:	oqrs1t30ghm9ulho5p9dvgactd	Message:	찜하기 팝업 출력	URI:	/jongna/storeJjimSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000004
+Time:	2024-05-28 04:21:55	SessionID:	nct2br8tbh3net0qrra8atdeku	Message:	S_000013리뷰작성페이지 출력	URI:	/jongna/reviewSQL.php	Previous:	http://18.188.92.242/jongna/review_page.php?id=&store_number=S_000013
+Time:	2024-05-28 04:21:58	SessionID:	nct2br8tbh3net0qrra8atdeku	Message:	S_000013가게상세페이지 출력	URI:	/jongna/storeInfoSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000013
+Time:	2024-05-28 04:21:58	SessionID:	nct2br8tbh3net0qrra8atdeku	Message:	찜하기 팝업 출력	URI:	/jongna/storeJjimSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000013
+Time:	2024-05-28 04:22:03	SessionID:	nct2br8tbh3net0qrra8atdeku	Message:	S_000001가게상세페이지 출력	URI:	/jongna/storeInfoSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000001
+Time:	2024-05-28 04:22:03	SessionID:	nct2br8tbh3net0qrra8atdeku	Message:	찜하기 팝업 출력	URI:	/jongna/storeJjimSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000001
+Time:	2024-05-28 04:22:07	SessionID:	nct2br8tbh3net0qrra8atdeku	Message:	S_000001리뷰작성페이지 출력	URI:	/jongna/reviewSQL.php	Previous:	http://18.188.92.242/jongna/review_page.php?id=&store_number=S_000001
+Time:	2024-05-28 04:22:33	SessionID:	nct2br8tbh3net0qrra8atdeku	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/review_page.php?id=&store_number=S_000001
+Time:	2024-05-28 04:22:40	SessionID:	oqrs1t30ghm9ulho5p9dvgactd	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/jongna_login_page.php
+Time:	2024-05-28 04:22:45	SessionID:	26jquitgqjgbcj038jv1vnre2i	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/jongna_login_page.php
+Time:	2024-05-28 04:22:53	SessionID:	oqrs1t30ghm9ulho5p9dvgactd	Message:	S_000001가게상세페이지 출력	URI:	/jongna/storeInfoSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000001
+Time:	2024-05-28 04:22:53	SessionID:	oqrs1t30ghm9ulho5p9dvgactd	Message:	찜하기 팝업 출력	URI:	/jongna/storeJjimSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000001
+Time:	2024-05-28 04:23:24	SessionID:	nct2br8tbh3net0qrra8atdeku	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/jongna_login_page.php
+Time:	2024-05-28 04:24:09	SessionID:	nct2br8tbh3net0qrra8atdeku	Message:	S_000004가게상세페이지 출력	URI:	/jongna/storeInfoSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000004
+Time:	2024-05-28 04:24:09	SessionID:	nct2br8tbh3net0qrra8atdeku	Message:	찜하기 팝업 출력	URI:	/jongna/storeJjimSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000004
+Time:	2024-05-28 04:24:21	SessionID:	26jquitgqjgbcj038jv1vnre2i	Message:	S_000027가게상세페이지 출력	URI:	/jongna/storeInfoSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000027
+Time:	2024-05-28 04:24:21	SessionID:	26jquitgqjgbcj038jv1vnre2i	Message:	찜하기 팝업 출력	URI:	/jongna/storeJjimSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000027
+Time:	2024-05-28 04:24:42	SessionID:	26jquitgqjgbcj038jv1vnre2i	Message:	S_000007가게상세페이지 출력	URI:	/jongna/storeInfoSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000007
+Time:	2024-05-28 04:24:43	SessionID:	26jquitgqjgbcj038jv1vnre2i	Message:	찜하기 팝업 출력	URI:	/jongna/storeJjimSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000007
+Time:	2024-05-28 04:24:44	SessionID:	oqrs1t30ghm9ulho5p9dvgactd	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/jongna_login_page.php
+Time:	2024-05-28 04:24:45	SessionID:	26jquitgqjgbcj038jv1vnre2i	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000007
+Time:	2024-05-28 04:24:49	SessionID:	oqrs1t30ghm9ulho5p9dvgactd	Message:	리뷰작성페이지 출력	URI:	/jongna/reviewSQL.php	Previous:	http://18.188.92.242/jongna/mypage.php?id=&store_number=
+Time:	2024-05-28 04:25:00	SessionID:	oqrs1t30ghm9ulho5p9dvgactd	Message:	리뷰작성페이지 출력	URI:	/jongna/reviewSQL.php	Previous:	http://18.188.92.242/jongna/mypageModify_password.php
+Time:	2024-05-28 04:25:03	SessionID:	26jquitgqjgbcj038jv1vnre2i	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/jongna_login_page.php
+Time:	2024-05-28 04:25:05	SessionID:	oqrs1t30ghm9ulho5p9dvgactd	Message:	리뷰작성페이지 출력	URI:	/jongna/reviewSQL.php	Previous:	http://18.188.92.242/jongna/mypage.php
+Time:	2024-05-28 04:25:07	SessionID:	26jquitgqjgbcj038jv1vnre2i	Message:	리뷰작성페이지 출력	URI:	/jongna/reviewSQL.php	Previous:	http://18.188.92.242/jongna/mypage.php?id=&store_number=
+Time:	2024-05-28 04:25:14	SessionID:	oqrs1t30ghm9ulho5p9dvgactd	Message:	S_000027가게상세페이지 출력	URI:	/jongna/storeInfoSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000027
+Time:	2024-05-28 04:25:14	SessionID:	oqrs1t30ghm9ulho5p9dvgactd	Message:	찜하기 팝업 출력	URI:	/jongna/storeJjimSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000027
+Time:	2024-05-28 04:25:23	SessionID:	oqrs1t30ghm9ulho5p9dvgactd	Message:	리뷰작성페이지 출력	URI:	/jongna/reviewSQL.php	Previous:	http://18.188.92.242/jongna/mypage.php?id=&store_number=
+Time:	2024-05-28 04:25:28	SessionID:	oqrs1t30ghm9ulho5p9dvgactd	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/mypage.php?id=&store_number=
+Time:	2024-05-28 04:25:33	SessionID:	26jquitgqjgbcj038jv1vnre2i	Message:	리뷰작성페이지 출력	URI:	/jongna/reviewSQL.php	Previous:	http://18.188.92.242/jongna/mypage.php
+Time:	2024-05-28 04:25:51	SessionID:	nct2br8tbh3net0qrra8atdeku	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000004
+Time:	2024-05-28 04:26:02	SessionID:	nct2br8tbh3net0qrra8atdeku	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/index.php
+Time:	2024-05-28 04:26:08	SessionID:	nct2br8tbh3net0qrra8atdeku	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/storeList.php?category=%EC%96%91%EC%8B%9D
+Time:	2024-05-28 04:27:07	SessionID:	26jquitgqjgbcj038jv1vnre2i	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/mypage.php
+Time:	2024-05-28 04:28:06	SessionID:	26jquitgqjgbcj038jv1vnre2i	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/jongna_register_page.php?id=&store_number=
+Time:	2024-05-28 04:28:55	SessionID:	eehlbdh6kq767932bm013insc3	Message:	리뷰작성페이지 출력	URI:	/jongna/reviewSQL.php	Previous:	http://18.188.92.242/jongna/mypage.php?id=&store_number=
+Time:	2024-05-28 04:28:59	SessionID:	eehlbdh6kq767932bm013insc3	Message:	리뷰작성페이지 출력	URI:	/jongna/reviewSQL.php	Previous:	http://18.188.92.242/jongna/mypageModify_name.php
+Time:	2024-05-28 04:29:01	SessionID:	eehlbdh6kq767932bm013insc3	Message:	리뷰작성페이지 출력	URI:	/jongna/reviewSQL.php	Previous:	http://18.188.92.242/jongna/mypage.php?id=&store_number=
+Time:	2024-05-28 04:29:02	SessionID:	eehlbdh6kq767932bm013insc3	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/mypage.php?id=&store_number=
+Time:	2024-05-28 04:29:26	SessionID:	eehlbdh6kq767932bm013insc3	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/jongna_login_page.php
+Time:	2024-05-28 04:29:27	SessionID:	eehlbdh6kq767932bm013insc3	Message:	리뷰작성페이지 출력	URI:	/jongna/reviewSQL.php	Previous:	http://18.188.92.242/jongna/mypage.php?id=&store_number=
+Time:	2024-05-28 04:29:31	SessionID:	eehlbdh6kq767932bm013insc3	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/storeList.php?category=%ED%95%9C%EC%8B%9D
+Time:	2024-05-28 04:29:33	SessionID:	eehlbdh6kq767932bm013insc3	Message:	S_000037가게상세페이지 출력	URI:	/jongna/storeInfoSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000037
+Time:	2024-05-28 04:29:33	SessionID:	eehlbdh6kq767932bm013insc3	Message:	찜하기 팝업 출력	URI:	/jongna/storeJjimSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000037
+Time:	2024-05-28 04:29:39	SessionID:	eehlbdh6kq767932bm013insc3	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/storeList.php?category=%ED%95%9C%EC%8B%9D
+Time:	2024-05-28 04:29:40	SessionID:	eehlbdh6kq767932bm013insc3	Message:	S_000004가게상세페이지 출력	URI:	/jongna/storeInfoSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000004
+Time:	2024-05-28 04:29:40	SessionID:	eehlbdh6kq767932bm013insc3	Message:	찜하기 팝업 출력	URI:	/jongna/storeJjimSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000004
+Time:	2024-05-28 04:29:42	SessionID:	eehlbdh6kq767932bm013insc3	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/storeList.php?category=%ED%95%9C%EC%8B%9D
+Time:	2024-05-28 04:29:43	SessionID:	eehlbdh6kq767932bm013insc3	Message:	S_000040가게상세페이지 출력	URI:	/jongna/storeInfoSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000040
+Time:	2024-05-28 04:29:43	SessionID:	eehlbdh6kq767932bm013insc3	Message:	찜하기 팝업 출력	URI:	/jongna/storeJjimSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000040
+Time:	2024-05-28 04:29:45	SessionID:	eehlbdh6kq767932bm013insc3	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/storeList.php?category=%ED%95%9C%EC%8B%9D
+Time:	2024-05-28 04:29:50	SessionID:	eehlbdh6kq767932bm013insc3	Message:	S_000037가게상세페이지 출력	URI:	/jongna/storeInfoSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000037
+Time:	2024-05-28 04:29:50	SessionID:	eehlbdh6kq767932bm013insc3	Message:	찜하기 팝업 출력	URI:	/jongna/storeJjimSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000037
+Time:	2024-05-28 04:30:05	SessionID:	eehlbdh6kq767932bm013insc3	Message:	S_000034가게상세페이지 출력	URI:	/jongna/storeInfoSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000034
+Time:	2024-05-28 04:30:05	SessionID:	eehlbdh6kq767932bm013insc3	Message:	찜하기 팝업 출력	URI:	/jongna/storeJjimSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000034
+Time:	2024-05-28 04:30:11	SessionID:	eehlbdh6kq767932bm013insc3	Message:	S_000034리뷰작성페이지 출력	URI:	/jongna/reviewSQL.php	Previous:	http://18.188.92.242/jongna/review_page.php?id=&store_number=S_000034
+Time:	2024-05-28 04:30:32	SessionID:	eehlbdh6kq767932bm013insc3	Message:	S_000034가게상세페이지 출력	URI:	/jongna/storeInfoSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000034
+Time:	2024-05-28 04:30:32	SessionID:	eehlbdh6kq767932bm013insc3	Message:	찜하기 팝업 출력	URI:	/jongna/storeJjimSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000034
+Time:	2024-05-28 04:31:26	SessionID:	eehlbdh6kq767932bm013insc3	Message:	S_000034리뷰작성페이지 출력	URI:	/jongna/reviewSQL.php	Previous:	http://18.188.92.242/jongna/review_page.php?id=&store_number=S_000034
+Time:	2024-05-28 04:37:10	SessionID:	oqrs1t30ghm9ulho5p9dvgactd	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/storeList.php?category=%ED%95%9C%EC%8B%9D
+Time:	2024-05-28 04:37:43	SessionID:	oqrs1t30ghm9ulho5p9dvgactd	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/storeList.php?category=%ED%95%9C%EC%8B%9D
+Time:	2024-05-28 04:40:44	SessionID:	oqrs1t30ghm9ulho5p9dvgactd	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/storeList.php?category=%ED%95%9C%EC%8B%9D
+Time:	2024-05-28 04:41:15	SessionID:	oqrs1t30ghm9ulho5p9dvgactd	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/jongna_login_page.php
+Time:	2024-05-28 04:42:37	SessionID:	oqrs1t30ghm9ulho5p9dvgactd	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/jongna_login_page.php
+Time:	2024-05-28 04:51:48	SessionID:	oqrs1t30ghm9ulho5p9dvgactd	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	
+Time:	2024-05-28 04:51:51	SessionID:	oqrs1t30ghm9ulho5p9dvgactd	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	
+Time:	2024-05-28 04:51:52	SessionID:	oqrs1t30ghm9ulho5p9dvgactd	Message:	S_000037가게상세페이지 출력	URI:	/jongna/storeInfoSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000037
+Time:	2024-05-28 04:51:52	SessionID:	oqrs1t30ghm9ulho5p9dvgactd	Message:	찜하기 팝업 출력	URI:	/jongna/storeJjimSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000037
+Time:	2024-05-28 04:51:53	SessionID:	oqrs1t30ghm9ulho5p9dvgactd	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	
+Time:	2024-05-28 04:51:54	SessionID:	oqrs1t30ghm9ulho5p9dvgactd	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/index.php
+Time:	2024-05-28 04:53:33	SessionID:	oqrs1t30ghm9ulho5p9dvgactd	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/storeList.php?category=%EC%96%91%EC%8B%9D
+Time:	2024-05-28 04:57:31	SessionID:	oqrs1t30ghm9ulho5p9dvgactd	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/jongna_login_page.php
+Time:	2024-05-28 04:58:34	SessionID:	oqrs1t30ghm9ulho5p9dvgactd	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/jongna_login_page.php
+Time:	2024-05-28 04:58:36	SessionID:	oqrs1t30ghm9ulho5p9dvgactd	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/jongna_login_page.php
+Time:	2024-05-28 04:58:46	SessionID:	oqrs1t30ghm9ulho5p9dvgactd	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/jongna_login_page.php
+Time:	2024-05-28 04:58:49	SessionID:	oqrs1t30ghm9ulho5p9dvgactd	Message:	리뷰작성페이지 출력	URI:	/jongna/reviewSQL.php	Previous:	http://18.188.92.242/jongna/mypage.php?id=&store_number=
+Time:	2024-05-28 04:58:49	SessionID:	oqrs1t30ghm9ulho5p9dvgactd	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/jongna_login_page.php
+Time:	2024-05-28 04:58:50	SessionID:	oqrs1t30ghm9ulho5p9dvgactd	Message:	리뷰작성페이지 출력	URI:	/jongna/reviewSQL.php	Previous:	http://18.188.92.242/jongna/mypage.php?id=&store_number=
+Time:	2024-05-28 04:58:52	SessionID:	oqrs1t30ghm9ulho5p9dvgactd	Message:	리뷰작성페이지 출력	URI:	/jongna/reviewSQL.php	Previous:	http://18.188.92.242/jongna/mypageModify_id.php
+Time:	2024-05-28 04:58:53	SessionID:	oqrs1t30ghm9ulho5p9dvgactd	Message:	리뷰작성페이지 출력	URI:	/jongna/reviewSQL.php	Previous:	http://18.188.92.242/jongna/mypage.php?id=&store_number=
+Time:	2024-05-28 04:58:54	SessionID:	oqrs1t30ghm9ulho5p9dvgactd	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/jongna_login_page.php
+Time:	2024-05-28 05:00:09	SessionID:	oqrs1t30ghm9ulho5p9dvgactd	Message:	리뷰작성페이지 출력	URI:	/jongna/reviewSQL.php	Previous:	http://18.188.92.242/jongna/mypage.php?id=&store_number=
+Time:	2024-05-28 05:00:11	SessionID:	oqrs1t30ghm9ulho5p9dvgactd	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/mypage.php?id=&store_number=
+Time:	2024-05-28 05:02:11	SessionID:	oqrs1t30ghm9ulho5p9dvgactd	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/mypage.php?id=&store_number=
+Time:	2024-05-28 05:04:44	SessionID:	oqrs1t30ghm9ulho5p9dvgactd	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/jongna_login_page.php
+Time:	2024-05-28 05:04:47	SessionID:	oqrs1t30ghm9ulho5p9dvgactd	Message:	S_000037가게상세페이지 출력	URI:	/jongna/storeInfoSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000037
+Time:	2024-05-28 05:04:47	SessionID:	oqrs1t30ghm9ulho5p9dvgactd	Message:	찜하기 팝업 출력	URI:	/jongna/storeJjimSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000037
+Time:	2024-05-28 05:04:48	SessionID:	oqrs1t30ghm9ulho5p9dvgactd	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/jongna_login_page.php
+Time:	2024-05-28 05:04:50	SessionID:	oqrs1t30ghm9ulho5p9dvgactd	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/mypage.php?id=&store_number=
+Time:	2024-05-28 05:05:04	SessionID:	oqrs1t30ghm9ulho5p9dvgactd	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/mypage.php?id=&store_number=
+Time:	2024-05-28 05:05:29	SessionID:	oqrs1t30ghm9ulho5p9dvgactd	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/mypage.php?id=&store_number=
+Time:	2024-05-28 05:05:46	SessionID:	oqrs1t30ghm9ulho5p9dvgactd	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/mypage.php?id=&store_number=
+Time:	2024-05-28 05:06:54	SessionID:	oqrs1t30ghm9ulho5p9dvgactd	Message:	S_000003가게상세페이지 출력	URI:	/jongna/storeInfoSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000003
+Time:	2024-05-28 05:06:54	SessionID:	oqrs1t30ghm9ulho5p9dvgactd	Message:	찜하기 팝업 출력	URI:	/jongna/storeJjimSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000003
+Time:	2024-05-28 05:07:03	SessionID:	oqrs1t30ghm9ulho5p9dvgactd	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/jongna_login_page.php
+Time:	2024-05-28 05:07:06	SessionID:	oqrs1t30ghm9ulho5p9dvgactd	Message:	S_000004가게상세페이지 출력	URI:	/jongna/storeInfoSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000004
+Time:	2024-05-28 05:07:06	SessionID:	oqrs1t30ghm9ulho5p9dvgactd	Message:	찜하기 팝업 출력	URI:	/jongna/storeJjimSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000004
+Time:	2024-05-28 05:07:10	SessionID:	oqrs1t30ghm9ulho5p9dvgactd	Message:	S_000004리뷰작성페이지 출력	URI:	/jongna/reviewSQL.php	Previous:	http://18.188.92.242/jongna/review_page.php?id=&store_number=S_000004
+Time:	2024-05-28 05:08:34	SessionID:	eehlbdh6kq767932bm013insc3	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/review_page.php?id=&store_number=S_000034
+Time:	2024-05-28 05:08:51	SessionID:	eehlbdh6kq767932bm013insc3	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/storeList.php?category=%ED%95%9C%EC%8B%9D
+Time:	2024-05-28 05:09:11	SessionID:	oqrs1t30ghm9ulho5p9dvgactd	Message:	S_000027가게상세페이지 출력	URI:	/jongna/storeInfoSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000027
+Time:	2024-05-28 05:09:11	SessionID:	oqrs1t30ghm9ulho5p9dvgactd	Message:	찜하기 팝업 출력	URI:	/jongna/storeJjimSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000027
+Time:	2024-05-28 05:09:13	SessionID:	oqrs1t30ghm9ulho5p9dvgactd	Message:	S_000027리뷰작성페이지 출력	URI:	/jongna/reviewSQL.php	Previous:	http://18.188.92.242/jongna/review_page.php?id=&store_number=S_000027
+Time:	2024-05-28 05:09:17	SessionID:	oqrs1t30ghm9ulho5p9dvgactd	Message:	S_000027가게상세페이지 출력	URI:	/jongna/storeInfoSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000027
+Time:	2024-05-28 05:09:17	SessionID:	oqrs1t30ghm9ulho5p9dvgactd	Message:	찜하기 팝업 출력	URI:	/jongna/storeJjimSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000027
+Time:	2024-05-28 05:09:50	SessionID:	eehlbdh6kq767932bm013insc3	Message:	S_000041가게상세페이지 출력	URI:	/jongna/storeInfoSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000041
+Time:	2024-05-28 05:09:50	SessionID:	eehlbdh6kq767932bm013insc3	Message:	찜하기 팝업 출력	URI:	/jongna/storeJjimSQL.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000041
+Time:	2024-05-28 05:10:33	SessionID:	eehlbdh6kq767932bm013insc3	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000041
+Time:	2024-05-28 05:21:18	SessionID:	oqrs1t30ghm9ulho5p9dvgactd	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/store_info.php?id=&store_number=S_000027
+Time:	2024-05-28 05:21:20	SessionID:	oqrs1t30ghm9ulho5p9dvgactd	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	http://18.188.92.242/jongna/index.php?id=&store_number=
+Time:	2024-06-06 06:37:59	SessionID:	gq5htj273ta88465g7jg1rah1t	Message:	접속했습니다	URI:	/jongna/index.php	Previous:	
