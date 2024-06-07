@@ -7,14 +7,17 @@
 
         ini_set('display_errors', 1);
         ini_set('display_startup_errors', 1);
-        error_reporting(E_ALL);
+	error_reporting(E_ALL);
+	//display error 확인
+	//SQL 접속
         include("./SQLconstants.php");
-        $conn = new mysqli($mySQL_host,$mySQL_id,$mySQL_password,$mySQL_database);
+	$conn = new mysqli($mySQL_host,$mySQL_id,$mySQL_password,$mySQL_database);
+	
         if($conn->connect_error)
         {
                 die("Connection failed: ". $conn->connect_error);
 	}
-
+	//로그인 확인
 	if($_SERVER['REQUEST_METHOD'] == 'POST'){
 		
 		$username = $_POST['username']??'';
@@ -29,7 +32,7 @@
                 }
                 if(!$stmt->execute()){
                         die("Execute failed: ". htmlspecialchars($stmt->error));
-                }
+                } //post 값 오류 점검 
 
 		                $result = $stmt->get_result();
 
@@ -58,14 +61,14 @@
 	
 		$conn->close();
 ?>
-
-
+<?php// include("./Error_D_back.php");?>
 <!DOCTYPE html>
 <HTML>
     <head>
-	<script language="javascript"></script>
+	
         <meta charset="UFT-8">
-        <title>jongna</title>
+	<title>jongna</title>
+	
 	<link rel = "stylesheet" href="./cssdesign_duck.css">
 	<link rel="stylesheet" href="./ex_style.css">
     </head>
@@ -88,14 +91,15 @@
                                         e.preventDefault(); // 기본 엔터 키 동작 방지
                                         submitFormWithCategory('검색');
                                     }
-                                });
+		});
+	function move(url){
+		window.location.href = url;
+
+	}
+
     </script>
 	
-    <script>
-        function move(url) {
-        window.location.href = url;
-        }
-    </script>	
+  	
 
     <div class="top_menu" style="align-items:center; display: flex;">
         <?php
@@ -111,7 +115,7 @@
 
     <div class="logo">
         <div style="height: 50px; width: 50%;"></div>
-        <img style="cursor: pointer;" src="./jongna_logo.png" height="70" width="175" onclick="javascript:move('./index.php')">
+	<img style="cursor: pointer;" src="./jongna_logo.png" height="70" width="175" onclick="javascript:move('./index.php');">
     </div>
 </div>
 
@@ -126,15 +130,10 @@
             <div class="middle_menu_btn" onclick="window.location.href='./storeList.php?category=주점';"> 주점</div>
             <div style="height: 50px; width: 350px;"></div>
     </div>
-        <div class="login">
-	 <script>
-		function move(url) {
-		window.location.href = url;
-					}
-	</script>		
+        <div class="login">	
             <br>
             <h1>Login</h1>  
-            <br>
+            <br><!--로그인창-->
             <form method="post" action="jongna_login_page.php">
                 <br>
                 <input type="text" placeholder="아이디" name="username" required style="margin-left: 35px; height:50px; width: 372px;">
@@ -170,7 +169,8 @@
             </div>  
 
         <div class="login_singup">
-        <p>
+	<p>
+	<!--회원가입버튼-->
         <h4>회원이 아니라면?</h4>
         <div class="login_singup_button" onclick="javascript:move('./jongna_register_page.php')" >
         <input value="회원가입" type="submit" name="SignUp_button" style=" width: 100px; 

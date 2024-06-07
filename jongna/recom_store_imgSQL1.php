@@ -13,7 +13,7 @@
 			) AS subquery
 			ORDER BY Store_review_point DESC, 
 		        CASE WHEN cnt > 5 THEN Store_number ELSE 0 END
-			LIMIT 4;";
+			LIMIT 4;"; //평점이 높은 4개의 가게 선택
 	$result = $conn -> query($sql);
 
 	if($result->num_rows>0){

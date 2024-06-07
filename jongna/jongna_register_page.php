@@ -1,7 +1,8 @@
 <?php
 	ini_set('display_errors', 1);
         ini_set('display_startup_errors', 1);
-        error_reporting(E_ALL);
+	error_reporting(E_ALL);
+	//include("./Error_D_back.php");
 
         include("./SQLconstants.php");
         $conn = new mysqli($mySQL_host,$mySQL_id,$mySQL_password,$mySQL_database);
@@ -9,7 +10,7 @@
         if($conn -> connect_error){
                 die("Connection failed: ".$conn->connect_error);
         }
-
+	//post받은 회원정보 저장
         if($_SERVER['REQUEST_METHOD']=='POST'){
                 $Member_id = $_POST['Member_id'];
                 $Member_password = $_POST['Member_password'];
@@ -36,7 +37,7 @@
         }
         $conn->close();
 ?>
-
+<?php// include ("./Error_D_back.php");?>
 <!DOCTYPE html>
 <HTML>
     <body>

@@ -87,7 +87,7 @@
 
         </div>      
 
-        <!-- 마이페이지 회원정보 -->
+        <!-- 마이페이지 회원정보 출력 -->
         <div class = "text" style="width: 600px;">
             <?php include("./mypageSQL2.php"); 
             $member_name = trim($member_name);
@@ -122,7 +122,8 @@
                 </p>
             </div>
 
-            <br>
+	    <br>
+	<!--회원정보 수정 버튼-->
             <div style="text-align: center">
                 <a class="jjim_btn" style="padding: 7px; padding-left:30px; padding-right:30px;" href="mypageModify_name.php">닉네임 수정</a>
                 <a class="jjim_btn" style="padding: 7px; padding-left:30px; padding-right:30px;" href="mypageModify_id.php">아이디 수정</a>
@@ -150,7 +151,7 @@
             	<input type='hidden' name='store_number' value='$store_number'>
             	<button type='button' class='delete-store-btn' onclick='confirmStoreDelete(\"$store_name\", \"$store_number\");'>가게 삭제</button>
             </form> -->
-            <?php include("./mypageSQL1.php"); ?>
+            <?php //include("./mypageSQL1.php"); ?>
             </div>
 
       <div class="footer">  

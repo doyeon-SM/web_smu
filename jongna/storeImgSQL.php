@@ -16,12 +16,13 @@
         }else{
                 echo "Store_number 값이 전달되지 않았습니다.";
         }
-
+	//가게의 사진 3장 저장
         $query = "select * from StoreImage where StoreImage_id = '".$message."' limit 3";
         $resultSet = mysqli_query( $conn, $query );
 
         if($resultSet->num_rows > 0)
 	{
+		//사진 3번 출력
         	while($result = mysqli_fetch_array( $resultSet )) {
 			echo "<img class='store_image_list' src = '".$result['StoreImage_image_URL']."'>";	
 		}     

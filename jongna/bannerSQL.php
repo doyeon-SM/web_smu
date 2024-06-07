@@ -5,7 +5,7 @@
 	if($conn->connect_error){
 		die("Connection failed: ". $conn->connect_error);
 	}
-
+	//광고중인 식당의 이미지 출력
 	$sql = "select * from Store where Store_number = 'S_000002'";
 	$result = $conn->query($sql);
 

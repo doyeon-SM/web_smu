@@ -1,5 +1,6 @@
 <?php
 session_start();
+//만약 미로그인 상태일 경우 로그인창으로 강제 이동
 
 if (!isset($_SESSION['username'])) {
     header("Location: jongna_login_page.php");
@@ -147,6 +148,7 @@ if (!isset($_SESSION['username'])) {
 				<input class="jjim_btn" style="padding: 7px; padding-left:100px; padding-right:100px;" type="submit" name="com" value="완료" onclick="sendData()">
 			</div>
 <script>
+//SQL로 데이터를 전송하기 위한 post 함수
 function sendData() {
     const rateNum = document.getElementById("rateNum").innerText;
     const reviewContent = document.getElementById("RT").value;
@@ -165,7 +167,7 @@ function sendData() {
         if (response.ok) {
             alert('리뷰 작성에 성공하였습니다.');
 	    //작성 후 이전 store_info.php로 이동
-	    //window.history.back();
+	    window.history.back();
         } else {
             throw new Error('오류가 발생했습니다. 다시 시도해주세요.');
         }

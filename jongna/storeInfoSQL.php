@@ -20,7 +20,7 @@
 	
         include("./log.php");
         writeLog($message."가게상세페이지 출력");
-
+	//가게 번호에 맞는 가게 정보, 리뷰 저장
 	$store_query = "select * from Store where Store_number = '".$message."'";
 	$review_query = "select * from Review where Review_store_number = '".$message."'";
 	$store_resultSet = mysqli_query( $conn, $store_query );

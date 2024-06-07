@@ -30,7 +30,7 @@ $imageCountRow = mysqli_fetch_assoc($imageCountResult);
 $totalImages = $imageCountRow['total'];
 $totalPages = ceil($totalImages / $imagesPerPage);
 
-// 이미지 쿼리
+// 이미지 쿼리 4*4 배열 저장
 $imageQuery = "SELECT * FROM StoreImage WHERE StoreImage_id = '$storeNumber' LIMIT $offset, $imagesPerPage";
 $imageResult = mysqli_query($conn, $imageQuery);
 

@@ -19,6 +19,7 @@
 			}
 			function Move(url) {
     var storeNumber = "<?php echo $storeNumber; ?>";
+//폼으로 가게번호를 전달하기 위한 함수 생성
 
     // Create a form dynamically
     var form = document.createElement("form");
@@ -71,9 +72,9 @@
 		            document.getElementById("store_review").innerHTML = response;
 			}).catch(error => console.error('Error:', error));
 
-			sendPostRequest("storeJjimSQL.php", storeNumber).then(response => {
+			/*sendPostRequest("storeJjimSQL.php", storeNumber).then(response => {
                             document.querySelector(".jjimPopUp").innerHTML = response;
-                        }).catch(error => console.error('Error:', error));
+			}).catch(error => console.error('Error:', error));*/
 		    });
         	</script>
 		<div class="header">
